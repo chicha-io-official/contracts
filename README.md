@@ -35,13 +35,6 @@ CHI is the native utility token of the Chicha project. This repository contains 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Community & Support
-
-- **Website**: [https://chicha.project](https://chicha.project)
-- **Discord**: [Discord Server Link]
-- **Telegram**: [Telegram Group Link]
-- **Twitter**: [@ChichaProject](https://twitter.com/ChichaProject)
-- **Email**: contact@chicha.project
 
 ## Disclaimer
 
